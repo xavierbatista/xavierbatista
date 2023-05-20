@@ -1,5 +1,5 @@
 # Xavier Batista 
-**`Computer Science Undergrad`**
+**`Computer Science Undergrad (Senior)`**
 
 Hi, I'm Xavier. I've spent the past three years working as a full stack engineer while also pursuing my bachelor's degree in computer science. In my free time, I like to build full stack projects, which you can check out below. I also had the opportunity to give back to the community by teaching web development to university students. Right now, I'm interning at Amazon as a software developer.
 ### Languages and tools
