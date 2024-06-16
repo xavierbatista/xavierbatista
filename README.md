@@ -1,5 +1,5 @@
 # Xavier Batista 
-**`Computer Science Undergrad (Senior)`**
+**``**
 
 Hi, I'm Xavier. I'm a CS grad and software dev. Feel free to check out my projects.
 ### Languages and tools
